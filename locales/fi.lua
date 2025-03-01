@@ -1,0 +1,42 @@
+Locales = {}
+
+Locales['fi'] = {
+    blip_creator = "Blip Creator",
+    manage_blips = "Hallinnoi kartan blippeja",
+    create_blip = "Luo uusi blip",
+    create_blip_desc = "Lisaa uusi blip kartalle",
+    blip_name = "Blipin nimi",
+    icon = "Ikoni",
+    color = "Vari",
+    size = "Koko (0.5 - 4.0)",
+    blip_added = "Blip lisatty!",
+    remove_blip = "Poista blip",
+    remove_blip_desc = "Poista valittu blip kartalta",
+    menu_disabled = "Menu on pois kaytosta.",
+    house = "Talo",
+    store = "Kauppa",
+    police = "Poliisi",
+    hospital = "Sairaala",
+    gas_station = "Huoltoasema",
+    bank = "Pankki",
+    shooting_range = "Ammuskeluhalli",
+    casino = "Casino",
+    bar = "Baari",
+    gym = "Kuntosali",
+    mechanic = "Korjaamo",
+    mc_club = "Moottoripyorakerho",
+    ferry = "Lauttaterminaali",
+    airport = "Lentokentta",
+    helipad = "Helikopterikentta",
+    restaurant = "Ravintola",
+    prison = "Vankila",
+    oil_field = "oljykentta",
+    gold_mine = "Kultakaivos",
+    red = "Punainen",
+    blue = "Sininen",
+    green = "Vihrea",
+    yellow = "Keltainen",
+    white = "Valkoinen"
+}
+
+return { Locales = Locales }
